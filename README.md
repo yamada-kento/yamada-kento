@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-## Servies
+## Services
 
 - [Google Skills](https://www.skills.google/?locale=ja)
